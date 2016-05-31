@@ -1,0 +1,16 @@
+body {
+  font-family: arial;
+}
+img {
+  width: 250px;
+  height: 250px;
+}
+p,h1,img{
+  padding: 15px;
+}
+h1 {
+  color: #6b6f71;;
+}
+footer ,header {
+  text-align: center;
+}
