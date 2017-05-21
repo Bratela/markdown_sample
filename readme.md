@@ -1,9 +1,9 @@
 
-#Atom markdown
+# Atom markdown
 
-##Next article.
+## Next article.
 
-###Another text smaller.
+### Another text smaller.
 
 ![GitHub Logo](/images/wakamaru_image.jpg)
 
