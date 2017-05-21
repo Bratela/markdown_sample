@@ -1,7 +1,10 @@
 
 #Atom markdown
+
 ##Next article.
+
 ###Another text smaller.
+
 ![GitHub Logo](/images/wakamaru_image.jpg)
 
 http://github.com - automatic
@@ -15,6 +18,7 @@ http://github.com - automatic
 * List connect.
 
 ###Table sample.
+
 First Header | Second Header
 ------------ | -------------
 Content cell 1 | Content cell 2
